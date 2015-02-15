@@ -1,0 +1,2 @@
+var people=function(){var e={paths:{getPeople:config.ajaxPath+"/getPeople.php"},listPeopleContainer:$("#people-list"),searchField:$("#search-people"),searchButton:$("#search-button")},t=function(){e.searchField.keyup(a),e.searchButton.click(a),a()},a=function(){$.ajax({method:"GET",url:e.paths.getPeople,data:{query:e.searchField.val()},success:function(t){e.listPeopleContainer.html(t)}})};return{init:t}}();$(function(){people.init()});
+//# sourceMappingURL=./people-min.map

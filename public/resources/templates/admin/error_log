@@ -1,0 +1,66 @@
+[18-Sep-2014 04:14:39 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[20-Sep-2014 00:05:10 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[20-Sep-2014 22:47:12 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[22-Sep-2014 15:04:05 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Sep-2014 10:17:38 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Sep-2014 16:36:30 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[26-Sep-2014 00:37:47 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[26-Sep-2014 03:16:07 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Oct-2014 01:30:26 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[04-Dec-2014 17:17:57 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[03-Jan-2015 17:42:16 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: Table 'johnvqqa_acadefly_db.blockPeriods' doesn't exist' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: Tabl...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/templates/admin/edit-school-schedule.php(49): SqlConnection->query('SELECT * FROM b...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69

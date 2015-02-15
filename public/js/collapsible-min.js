@@ -1,0 +1,1 @@
+!function($){$.fn.collapsible=function(){return $(this).each(function(){var l=$(this),n=l.find("h2"),i=function(){l.toggleClass("collapsed")};n.click(i)})}}(window.jQuery),$(function(){$(".collapsible").collapsible()});

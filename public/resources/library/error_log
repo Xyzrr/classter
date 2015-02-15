@@ -1,0 +1,266 @@
+[17-Aug-2014 15:47:49 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[17-Aug-2014 15:47:49 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[17-Aug-2014 22:03:53 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[17-Aug-2014 22:03:53 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[18-Aug-2014 04:13:15 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[18-Aug-2014 04:13:15 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[18-Aug-2014 06:15:08 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[18-Aug-2014 06:15:08 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 06:12:10 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[20-Aug-2014 06:12:10 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 13:33:29 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[20-Aug-2014 13:33:29 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 19:25:03 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[20-Aug-2014 19:25:03 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 20:52:24 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[20-Aug-2014 20:52:24 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[21-Aug-2014 00:44:58 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[21-Aug-2014 00:44:58 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[21-Aug-2014 07:04:35 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[21-Aug-2014 07:04:35 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[21-Aug-2014 12:43:44 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[21-Aug-2014 12:43:44 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[22-Aug-2014 22:08:46 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[22-Aug-2014 22:08:46 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[23-Aug-2014 04:04:19 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Aug-2014 04:04:19 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[23-Aug-2014 07:04:53 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Aug-2014 07:04:53 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[23-Aug-2014 09:51:35 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Aug-2014 09:51:35 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[24-Aug-2014 22:47:23 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[24-Aug-2014 22:47:23 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Aug-2014 04:20:21 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[25-Aug-2014 04:20:21 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[26-Aug-2014 18:04:34 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[26-Aug-2014 18:04:34 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[27-Aug-2014 06:25:22 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[27-Aug-2014 06:25:22 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Sep-2014 03:44:05 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Sep-2014 03:44:05 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Sep-2014 11:46:33 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Sep-2014 11:46:33 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Sep-2014 14:00:48 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Sep-2014 14:00:48 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[23-Sep-2014 19:54:05 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[23-Sep-2014 19:54:05 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[24-Sep-2014 02:37:47 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[24-Sep-2014 02:37:47 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Oct-2014 06:28:35 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Oct-2014 06:28:35 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Oct-2014 11:41:20 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Oct-2014 11:41:20 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Oct-2014 18:40:09 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Oct-2014 18:40:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Oct-2014 21:19:02 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Oct-2014 21:19:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[29-Oct-2014 02:43:21 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[29-Oct-2014 02:43:21 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[24-Dec-2014 14:20:36 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[24-Dec-2014 14:20:36 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[24-Dec-2014 20:56:41 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[24-Dec-2014 20:56:41 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Dec-2014 03:01:25 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[25-Dec-2014 03:01:25 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Dec-2014 09:50:06 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[25-Dec-2014 09:50:06 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[27-Jan-2015 19:44:43 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[27-Jan-2015 19:44:43 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Jan-2015 01:27:48 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Jan-2015 01:27:48 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Jan-2015 07:11:45 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Jan-2015 07:11:45 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Jan-2015 13:30:11 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Jan-2015 13:30:11 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[28-Jan-2015 19:17:27 America/New_York] PHP Notice:  Undefined index: email in /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php on line 14
+[28-Jan-2015 19:17:27 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Tried to escape a non-string.' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(34): SqlConnection->writeError('Tried to escape...')
+#1 /home/johnvqqa/public_html/acadefly.com/resources/library/validateRegister.php(14): SqlConnection->escapeString(NULL)
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69

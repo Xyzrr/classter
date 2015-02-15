@@ -1,0 +1,341 @@
+@dashboard-color: #BE4155;
+@questions-color: #40D2E6;
+@homework-color: gray;
+@calendar-color: #44D4D4;
+@tutor-color: #B4876B;
+@review-color: #984EB2;
+@broadcast-color: rgb(154, 191, 213);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300|Lato|Shadows+Into+Light|Oswald);
+
+h5 {
+	font-family: Roboto;
+	font-weight: 300;
+}
+h2 {
+	font-family: Roboto;
+}
+.register-buttons {
+	padding-top: 20px;
+}
+.sign-up-button {
+	transition: all .3s;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	font-family: Roboto;
+	font-weight: 300;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	&.student {
+		box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+	}
+	&.teacher {
+		background: none;
+		border: 2px solid rgba(255, 255, 255, 0.6);
+		color: white;
+		&:hover {
+			background-color: rgba(255, 255, 255, 0.2);
+		}
+	}
+}
+.header-wrapper {
+	.make-row;
+	.panel-shadow;
+	overflow: hidden;
+	height: 100vh;
+	// .gradient(darken(rgb(68, 90, 116), 20%), darken(rgb(68, 90, 116), 0%));
+	background: none;
+	color: white;
+	text-align: center;
+	position: relative;
+	padding-top: 25vh;
+	font-family: Roboto;
+	text-shadow: 0px 2px 20px rgba(0, 0, 0, 0.6);
+	font-weight: 400;
+	@media(max-width: @screen-xs-max) {
+		height: 465px;
+		padding-top: 100px;
+	}
+	h1 {
+		display: block;
+		position: relative;
+		font-size: 6.5vw;
+		font-family: "Shadows Into Light";
+		@media(max-width: @screen-xs-max) {
+			font-size: 30px;
+		}
+	}
+	p {
+		position: relative;
+		font-size: 2vw;
+		font-family: "Open Sans";
+		padding: 0px 20px;
+		@media(max-width: @screen-xs-max) {
+			font-size: 15px;
+		}
+	}
+	img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		min-height: 100%;
+	  	min-width: 1024px;
+		
+	  	width: 100%;
+	 	height: auto;
+		z-index: 0;
+		@media(max-width: 1024px) {
+		    left: 50%;
+		    margin-left: -512px;
+		}
+	}
+}
+.highlights {
+	box-shadow: inset 1px 4px 6px -4px rgba(0, 0, 0, 0.4);
+	position: relative;
+	background-color: #EEE;
+	text-align: center;
+	padding: 20px;
+	color: #666;
+	.make-row;
+	.highlight-panel-wrapper {
+		.make-sm-column(4);
+	}
+	.highlight-panel {
+		background-color: white;
+		.panel-shadow;
+		padding: 30px;
+		height: 220px;
+		i {
+			font-size: 35px;
+			color: darken(@theme-color, 20%);
+		}
+		h5 {
+			font-size: 25px;
+			color: darken(@theme-color, 20%);
+		}
+		p {
+			font-size: 13px;
+			color: #666;
+		}
+	}
+	@media(max-width: @screen-md-max) {
+		.highlight-panel {
+			height: 240px;
+		}
+	}
+	@media(max-width: @screen-sm-max) {
+		.highlight-panel {
+			height: 280px;
+		}
+	}
+	@media(max-width: @screen-xs-max) {
+		padding: 0 0 20px;
+		.highlight-panel {
+			margin-top: 20px;
+			height: auto;
+			padding: 20px;
+		}
+	}
+}
+.jumbo, .bullets {
+	text-align: center;
+	.make-row;
+}
+.jumbo {
+	padding-top: 30px;
+	color: white;
+	.panel-shadow;
+	position: relative;
+	z-index: 10;
+	.header {
+		padding: 0 200px;
+		@media(max-width: @screen-sm-max) {
+			padding: 0 100px;
+		}
+		@media(max-width: @screen-xs-max) {
+			padding: 0 20px;
+		}
+	}
+}
+.bullets {
+	padding: 50px;
+	background-color: white;
+	i {
+		font-size: 30px;
+	}
+	h5 {
+		font-size: 20px;
+	}
+	p {
+		font-size: 13px;
+		color: #666;
+	}
+	@media(max-width: @screen-xs-max) {
+		padding: 30px;
+	}
+}
+.bullet {
+	.make-sm-column(4);
+}
+.dashboard {
+	.jumbo {
+		.gradient(darken(@dashboard-color, 20%), @dashboard-color);
+		height: 400px;
+	}
+	img {
+		margin-top: 20px;
+		width: 270px;
+		@media(max-width: @screen-xs-max) {
+			width: 230px;
+		}
+	}
+	i, h5 {
+		color: darken(@dashboard-color, 20%);
+	}
+}
+.questions {
+	.jumbo {
+		.gradient(darken(@questions-color, 20%), @questions-color);
+		height: 400px;
+	}
+	img {
+		margin-top: 20px;
+		width: 310px;
+		@media(max-width: @screen-xs-max) {
+			width: 230px;
+		}
+	}
+	i, h5 {
+		color: darken(@questions-color, 20%);
+	}
+}
+.homework {
+	.jumbo {
+		height: 420px;
+		.gradient(darken(@homework-color, 20%), @homework-color);
+	}
+	img {
+		width: 260px;
+	}
+	@media(max-width: @screen-xs-max) {
+		.jumbo {
+			height: 370px;
+		}
+		img {
+			width: 170px;
+		}
+	}
+	i, h5 {
+		color: darken(@homework-color, 20%);
+	}
+}
+.calendar {
+	.jumbo {
+		height: 350px;
+		.gradient(darken(@calendar-color, 20%), @calendar-color);
+	}
+	img {
+		margin-top: 20px;
+		width: 260px;
+	}
+	@media(max-width: @screen-xs-max) {
+		.jumbo {
+			height: 340px;
+		}
+		img {
+			width: 190px;
+		}
+	}
+	i, h5 {
+		color: darken(@calendar-color, 20%);
+	}
+}
+.tutor {
+	.jumbo {
+		height: 370px;
+		.gradient(darken(@tutor-color, 20%), @tutor-color);
+	}
+	img {
+		margin-top: 20px;
+		width: 230px;
+	}
+	@media(max-width: @screen-xs-max) {
+		.jumbo {
+			height: 350px;
+		}
+		img {
+			width: 180px;
+		}
+	}
+	i, h5 {
+		color: darken(@tutor-color, 20%);
+	}
+}
+.reviews {
+	.jumbo {
+		height: 350px;
+		.gradient(darken(@review-color, 20%), @review-color);
+	}
+	img {
+		margin-top: 20px;
+		width: 250px;
+	}
+	@media(max-width: @screen-xs-max) {
+		.jumbo {
+			height: 340px;
+		}
+		img {
+			width: 200px;
+		}
+	}
+	i, h5 {
+		color: darken(@review-color, 20%);
+	}
+}
+.broadcast {
+	.jumbo {
+		height: 370px;	
+		.gradient(darken(@broadcast-color, 20%), @broadcast-color);
+	}
+	img {
+		width: 260px;
+	}
+	@media(max-width: @screen-xs-max) {
+		.jumbo {
+			height: 350px;
+		}
+		img {
+			width: 220px;
+		}
+	}
+	i, h5 {
+		color: darken(@broadcast-color, 20%);
+	}
+}
+.anywhere {
+	.make-row;
+	text-align: center;
+	background-color: #666;
+	color: white;
+	padding: 25px 0;
+	.header {
+		padding: 0 200px;
+		@media(max-width: @screen-sm-max) {
+			padding: 0 100px;
+		}
+		@media(max-width: @screen-xs-max) {
+			padding: 0 20px;
+		}
+	}
+	img {
+		margin-top: 20px;
+		@media(max-width: @screen-sm-max) {
+			width: 600px;
+		}
+		@media(max-width: @screen-xs-max) {
+			width: 300px;
+		}
+	}
+}

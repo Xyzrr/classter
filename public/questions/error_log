@@ -1,0 +1,259 @@
+[17-Aug-2014 15:50:26 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[17-Aug-2014 15:50:26 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[17-Aug-2014 22:04:03 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[17-Aug-2014 22:04:03 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[18-Aug-2014 04:09:43 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[18-Aug-2014 04:09:43 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[18-Aug-2014 08:15:01 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[18-Aug-2014 08:15:01 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 04:13:53 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[20-Aug-2014 04:13:53 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 09:53:21 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[20-Aug-2014 09:53:21 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 13:36:57 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[20-Aug-2014 13:36:57 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 19:25:48 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[20-Aug-2014 19:25:48 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[20-Aug-2014 22:03:08 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[20-Aug-2014 22:03:08 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[21-Aug-2014 19:25:20 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[21-Aug-2014 19:25:20 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[21-Aug-2014 20:10:49 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[21-Aug-2014 20:10:49 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[22-Aug-2014 22:56:19 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[22-Aug-2014 22:56:19 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[23-Aug-2014 10:21:52 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[23-Aug-2014 10:21:52 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:65
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 65
+[24-Aug-2014 23:31:09 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[24-Aug-2014 23:31:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Aug-2014 04:07:07 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[25-Aug-2014 04:07:07 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[25-Aug-2014 07:22:08 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[25-Aug-2014 07:22:08 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[26-Aug-2014 16:30:08 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[26-Aug-2014 16:30:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[27-Aug-2014 18:26:57 America/New_York] PHP Notice:  Undefined variable: userID in /home/johnvqqa/public_html/acadefly.com/questions/index.php on line 53
+[27-Aug-2014 18:26:57 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php:69
+Stack trace:
+#0 /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php(27): SqlConnection->writeError('SQL error: You ...')
+#1 /home/johnvqqa/public_html/acadefly.com/questions/index.php(54): SqlConnection->query('SELECT * FROM U...')
+#2 {main}
+  thrown in /home/johnvqqa/public_html/acadefly.com/resources/library/SqlConnection.php on line 69
+[03-Sep-2014 09:19:55 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 09:20:04 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 11:40:05 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 11:47:44 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 11:54:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 11:55:30 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 12:06:29 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 12:33:09 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 12:50:08 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 12:55:44 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 12:55:59 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:02:05 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:02:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:03:16 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:03:37 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:14:22 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:14:43 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:14:53 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:17:00 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:31:54 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:32:37 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:32:49 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:33:25 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:36:41 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:45:30 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:45:50 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 13:45:59 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:34:20 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:34:29 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:36:12 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:36:17 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:49:29 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 14:50:56 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 15:54:16 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 15:54:26 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 19:48:23 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 20:34:06 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 20:34:16 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 20:48:11 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[03-Sep-2014 22:26:31 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 14:59:02 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 14:59:16 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 17:20:18 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 18:30:45 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 18:44:36 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 18:44:48 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 18:49:22 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 19:10:37 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:14:41 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:14:47 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:32:31 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:32:43 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:32:46 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:32:53 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:33:06 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:33:08 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:33:12 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:43:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[04-Sep-2014 21:48:51 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[05-Sep-2014 14:56:46 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[05-Sep-2014 15:52:18 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[05-Sep-2014 15:53:50 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[05-Sep-2014 18:16:16 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[05-Sep-2014 21:21:37 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[06-Sep-2014 10:04:54 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[06-Sep-2014 10:05:01 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 10:57:35 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 11:11:35 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 11:11:59 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 11:12:05 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 12:29:00 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 14:56:23 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 49
+[07-Sep-2014 15:57:49 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 17:11:58 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 17:16:45 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 19:23:29 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 20:49:19 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 21:17:54 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 22:09:21 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 22:56:06 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 23:26:17 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 23:26:25 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 23:26:39 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 23:56:33 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[07-Sep-2014 23:56:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 15:24:51 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 15:54:07 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 15:54:15 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 15:55:43 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 15:55:52 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 19:49:39 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 19:49:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 19:50:38 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 19:51:18 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:02:35 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:03:34 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:13:04 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:23:30 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:27:21 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:27:31 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 20:31:15 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 21:16:26 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 21:28:18 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 21:28:33 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 21:39:24 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[08-Sep-2014 21:47:05 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 00:07:06 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 06:55:20 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 07:12:09 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 18:11:13 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 18:12:14 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 18:12:17 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 18:12:28 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 20:37:46 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 21:17:39 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 21:17:45 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 22:17:23 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 22:26:23 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 22:26:28 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 22:29:15 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[09-Sep-2014 22:42:44 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 16:17:41 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 16:17:51 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 16:52:35 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 17:29:54 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 17:30:00 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 17:30:09 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 18:48:46 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 19:55:48 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 21:24:22 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 21:49:05 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 21:49:10 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53
+[10-Sep-2014 22:17:42 America/New_York] PHP Notice:  Undefined index: userName in /home/johnvqqa/public_html/acadefly.com/resources/templates/navbar.php on line 53

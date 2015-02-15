@@ -1,0 +1,89 @@
+.body {
+	margin: 0 !important;
+}
+.embedded-thing {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+.time-until-school-wrapper {
+	background-color: @theme-color;
+	text-align: center;
+	min-height: 100%;
+	color: white;
+	font-family: Roboto;
+	padding-top: 50px;
+	.count {
+	}
+	.label {
+	}
+	.stat {
+		display: inline-block;
+		margin: 0 20px;
+	}
+	.label {
+		font-family: "Open Sans";
+	}
+	.days {
+		.count {
+			text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
+			font-size: 200px;
+		}
+		.label {
+			text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
+			font-size: 90px;
+			position: relative;
+		}
+	}
+	.stats {
+		margin-top: -40px;
+		.count {
+			text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
+			font-size: 100px;
+		}
+		.label {
+			text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+			font-size: 30px;
+			padding: 0;
+			position: relative;
+			top: -15px;
+		}
+	}
+	.description {
+		text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+		font-family: Roboto;
+		font-size: 50px;
+		padding-top: 40px;
+	}
+	@media(max-width: @screen-xs-max) {
+		padding-top: 0;
+		.stat {
+			margin: 0 10px;
+		}
+		.days {
+			.count {
+				font-size: 140px;
+			}
+			.label {
+				font-size: 40px;
+			}
+		}
+		.stats {
+			margin-top: -40px;
+			.count {
+				font-size: 70px;
+			}
+			.label {
+				font-size: 16px;
+				top: -10px;
+			}
+		}
+		.description {
+			font-size: 26px;
+			padding-top: 25px;
+		}
+	}
+}

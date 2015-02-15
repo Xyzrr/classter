@@ -1,0 +1,1 @@
+!function($){"use strict";$.fn.commentBox=function(){return this.each(function(){var t=$(this),n={paths:{getCommentBox:config.ajaxPath+"/getCommentBox.php"}},o=function(){$.ajax({method:"GET",url:n.paths.getCommentBox,data:{postID:t.data("id")},success:function(n){t.html(n)}})};o(),window.alert("!241")})}}(window.jQuery);

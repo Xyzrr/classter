@@ -1,0 +1,127 @@
+
+.page-frame {
+	width: 100%;
+	border: none;
+	background-color: white;
+}
+.mobile-iframe {
+	overflow: scroll !important;
+	-webkit-overflow-scrolling: touch !important;
+}
+.pages-nav {
+	background-color: #F6F6F6;
+	position: relative;
+	z-index: 50;
+	.subtle-shadow(0px, 2px, 5);
+	li {
+		margin: 0 !important;
+		.period {
+			color: #AAA;
+		}
+		a {
+			max-width: 180px;
+			.ellipsis;
+			@media(max-width: @screen-md-max) {
+				max-width: 130px;
+			}
+			@media(max-width: @screen-sm-max) {
+				max-width: 110px;
+			}
+		}
+	}
+	.page-tab {
+		padding-top: 10px;
+		padding-bottom: 6px;
+		background-color: transparent;
+		@media(max-width: @screen-xs-max) {
+			padding-left: 13px;
+			padding-right: 13px;
+		}
+		border-radius: 0px !important;
+		color: #777;
+		border-bottom: 3px solid transparent;
+		transition: all .5s;
+	}
+	.page-tab:hover {
+		color: black;
+		border-bottom: 3px solid lighten(#1E90FF, 10%);
+	}
+	li.active>.page-tab {
+		color: black;
+		font-weight: bold;
+		background-color: transparent !important;
+		border-bottom: 3px solid #1E90FF;
+	}
+	li.active>.page-tab:hover {
+		color: black;
+		border-bottom: 3px solid lighten(#1E90FF, 10%);
+	}
+}
+.settings-wrapper {
+	display: none;
+	position: absolute;
+	z-index: 20;
+	width: 100%;
+	border-bottom: 1px solid #CCC;
+}
+.url {
+	background-color: #EEE;
+	padding: 10px 10px;
+	input {
+		border-radius: 100px;
+	}
+	button {
+		.border-right-radius(100px);
+	}
+}
+.settings {
+	z-index: 20;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0px 0px;
+	text-align: center;
+	border: none;
+	border-radius: 0;
+	width: 40px;
+	height: 39px;
+	font-size: 25px;
+	background-color: transparent;
+	color: #777;
+	transition: all .5s;
+}
+.settings:hover, .settings:focus {
+	background-color: #DDD;
+}
+.page-settings-button {
+	background-color: #EEE;
+	border-radius: 0px;
+	border: none;
+	transition: all .5s;
+	&:hover {
+		background-color: #DDD;
+	}
+}
+.button-label {
+	margin-left: 5px;
+}
+@media(max-width: @screen-xs-max) {
+	.button-label {
+		display:none;
+	}
+}
+.welcome-message {
+	h1 {
+		font-family: Roboto;
+	}
+	background-color: white;
+	box-shadow: 0px 2px 5px #AAA;
+	text-align: center;
+	padding: 20px 50px;
+	margin-top: 50px;
+}
+@media(max-width: @screen-xs-min) {
+	.welcome-message {
+		padding: 20px 20px;
+	}
+}

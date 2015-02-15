@@ -1,0 +1,101 @@
+.group-panel-wrapper {
+	.make-xs-column(12);
+	.make-sm-column(6);
+	.make-md-column(4);
+	margin-top: @grid-gutter-width/2;
+}
+
+.group-panel {
+	background-color: white;
+	.panel-shadow;
+	.cover {
+		background-color: @theme-color;
+		text-align: center;
+		height: 160px;
+	}
+	img {
+		display: block;
+		margin: -90px auto 0;
+	}
+	.body {
+		text-align: center;
+		padding: 30px;
+		p, h3 {
+			margin: 0;
+		}
+		a {
+			display: block;
+			width: 100px;
+			margin: 30px auto 0px;
+		}
+	}
+	.foot {
+		background-color: #EEE;
+		div {
+			text-align: center;
+			display: inline-block;
+			width: 50%;
+			padding: 10px;
+			.count {
+				display: block;
+				font-size: 30px;
+			}
+			.name {
+				display: block;
+				color: #666;
+			}
+		}
+	}
+}
+
+.class-header-column {
+	margin-top: @panel-spacing;
+	background-color: white;
+	@media(max-width: @screen-xs-max) {
+		margin: 0;
+	}
+	.panel-shadow;
+	.info {
+		text-align: center;
+		padding: 20px;
+	}
+	h1 {
+		background-color: darken(@theme-color, 10%);
+		color: white;
+		font-family: Roboto;
+		font-size: 26px;
+		margin: 0;
+		margin-bottom: -140px;
+		height: 205px;
+		text-align: center;
+		padding: 40px 10px;
+		small {
+			color: rgba(255, 255, 255, 0.6);
+		}
+		.panel-shadow;
+	}
+	.teacher {
+		margin-top: -50px;
+	}
+	h2 {
+		font-family: Roboto;
+		font-weight: 400;
+		font-size: 20px;
+		margin: 10px;
+	}
+	p {
+		margin: 0;
+	}
+	img {
+		width: 200px;
+	}
+}
+.students-list {
+	h3 {
+		font-family: Roboto;
+		font-weight: 300;
+		font-size: 20px;
+	}
+	margin: @panel-spacing 0;
+	text-align: center;
+}

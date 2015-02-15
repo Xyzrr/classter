@@ -1,0 +1,1 @@
+var tabs=function(){var n={tabLinks:$("ul.nav-pills>li>a")},t=function(){a(),i()},a=function(){n.tabLinks.on("shown.bs.tab",function(n){var t=$(n.target).attr("href").substr(1);window.location.hash=t})},i=function(){var n=window.location.hash;$('a[href="'+n+'"]').tab("show")};return{init:t}}();
